@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  height: 200px;
+  height: 220px;
   display: flex;
 }
 
@@ -23,11 +23,12 @@ header {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  padding: 10px;
 }
 
 .hero-title,
 .hero-info {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
