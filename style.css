@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  height: 220px;
+  height: 140px;
   display: flex;
 }
 
@@ -35,12 +35,12 @@ header {
 
 .hero-title {
   width: 80%;
-  font-size: 55px;
+  font-size: 40px;
 }
 
 .hero-info {
   width: 60%;
-  font-size: 45px;
+  font-size: 25px;
 }
 
 .choice-signs {
