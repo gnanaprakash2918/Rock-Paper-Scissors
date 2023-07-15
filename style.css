@@ -144,3 +144,13 @@ header {
 .computer-score.winner {
   width: 45%;
 }
+
+.winner-announce,
+.actual-winner {
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.scores-container.winner {
+  height: 280px;
+}
