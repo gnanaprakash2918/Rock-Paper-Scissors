@@ -1,8 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   outline: 1px solid red;
+}
+
+body {
+  font-family: "Press Start 2P", sans-serif;
 }
 
 header {
@@ -19,6 +25,18 @@ header {
   align-items: center;
 }
 
+.hero-title,
+.hero-info {
+  padding: 20px;
+  text-align: center;
+}
+
 .hero-title {
-  width: 300px;
+  width: 80%;
+  font-size: 55px;
+}
+
+.hero-info {
+  width: 60%;
+  font-size: 45px;
 }
